@@ -1,10 +1,10 @@
-1. Objetivos
+#1. Objetivos
 El presente proyecto tiene por objeto enfrentar a los estudiantes del curso:
 1. A la construcción de aplicativos webs para resolver problemas.
 2. Al uso de los algoritmos vistos en clase.
 3. Al diseño e implementación de soluciones correctas y eficientes a problemas computacionales,
 usando los conceptos vistos en clase.
-2. Definición de la Tarea
+#2. Definición de la Tarea
 Tomando como referencia el ejercicio que hemos denominado Tablero de resultados (mostrado en
 la Figura 1)1
 , construir una solución al ejercicio en el cual se aplicarán las siguientes
